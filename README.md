@@ -7,7 +7,7 @@
 
 ### Introduction
 
-GOTB is a fun and interactive game inspired by the famous "[Game of Life]("https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life")". In this game, we have three types of bugs: rocks (red), papers (blue), and scissors (green). These bugs move around the screen and try to kill each other, and you can set different levels of intelligence (IQ) that affect their behavior.
+GOTB is a fun and interactive game inspired by the famous "[Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)". In this game, we have three types of bugs: rocks (red), papers (blue), and scissors (green). These bugs move around the screen and try to kill each other, and you can set different levels of intelligence (IQ) that affect their behavior.
 
 #### Algorithm
 
